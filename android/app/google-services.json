@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311460935772",
+    "firebase_url": "https://evenitia.firebaseio.com",
+    "project_id": "evenitia",
+    "storage_bucket": "evenitia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311460935772:android:db60d18f37f2424276ce99",
+        "android_client_info": {
+          "package_name": "com.karlmusingo.evenitia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311460935772-h7kfb6gbjhdrilepi7g2290lhfiagef1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxO2Mp1z__RV0FASICu-LpHykXckbSofo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311460935772-h7kfb6gbjhdrilepi7g2290lhfiagef1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
